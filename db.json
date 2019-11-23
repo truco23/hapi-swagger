@@ -1,0 +1,18 @@
+{
+  "produtos": [
+        {
+          "id": 1,
+          "nome": "Hambúrguer",
+          "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+          "preco": 8.5,
+          "categoria_id": 1
+        },
+        {
+          "id": 2,
+          "nome": "Hambúrguer 2",
+          "descricao": "Pão, bife de hambúrguer 90g, salada e batata. 2",
+          "preco": 8.5,
+          "categoria_id": 1
+        }
+    ]
+}
